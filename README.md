@@ -1,3 +1,35 @@
+# Features
+- Login/Sign Up 
+    - Sign in/Sign up form
+    - redirect to Browse page
+- Browse Page (After authentication)
+    - Header
+    - Main Movie
+        - Trailer in background
+        - Title & Description
+        - Movie suggestions
+            - Movielist*N
+- Streaming GPT
+    - Search Bar
+    - Movie Suggestions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
